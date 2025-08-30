@@ -1,5 +1,6 @@
 **Netflix Power BI Dashboard
 **
+
 Overview
 
 This Power BI dashboard provides a detailed analysis of Netflix’s global content library. It highlights trends, performance metrics, and key insights into movies and TV shows available on the platform.
